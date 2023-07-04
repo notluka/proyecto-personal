@@ -1,0 +1,28 @@
+Documentación - Página web de Fitness
+
+En este documento, se proporciona una descripción general de los diferentes archivos y secciones que hemos creado para la página web de Fitness.
+
+Archivos:
+
+index.html: Este archivo representa la página principal de la aplicación de Fitness. Contiene la estructura básica del sitio web, incluyendo el encabezado de navegación, el banner principal, las características principales y los enlaces a otras secciones.
+
+register.html: En este archivo, se encuentra el formulario de registro de usuarios. Los usuarios pueden completar el formulario con su información personal para crear una cuenta en la aplicación de Fitness.
+
+login.html: Este archivo contiene el formulario de inicio de sesión. Los usuarios pueden ingresar sus credenciales (nombre de usuario y contraseña) para acceder a su cuenta en la aplicación de Fitness.
+
+plans.html: Aquí se encuentra la sección de planes de entrenamiento. Se muestra una variedad de planes de entrenamiento que los usuarios pueden elegir para alcanzar sus objetivos fitness. Cada plan incluye detalles como el nombre, descripción y precio.
+
+activity.html: En este archivo, los usuarios pueden registrar su actividad física y hacer un seguimiento de sus progresos. Proporciona un formulario para ingresar los detalles de la actividad, como la duración, tipo de ejercicio y fecha.
+
+community.html: Esta página presenta una comunidad de usuarios de la aplicación de Fitness. Los usuarios pueden conectarse entre sí, compartir logros y participar en desafíos de fitness. Incluye una sección de testimonios y un formulario para enviar nuevos testimonios.
+
+contact.html: Aquí se encuentra la sección de contacto, donde los usuarios pueden enviar consultas, comentarios o sugerencias a través de un formulario de contacto. Incluye campos para el nombre, correo electrónico y mensaje.
+
+Estilos CSS:
+
+styles.css: Este archivo contiene estilos CSS que se aplican a todas las páginas del sitio web. Define el diseño general, la tipografía, los colores y otros estilos comunes.
+Cada archivo HTML hace referencia a la hoja de estilos CSS para aplicar los estilos correspondientes a las diferentes secciones y elementos de la página.
+
+Es importante mencionar que estos son solo ejemplos de implementación y diseño de una página web de Fitness. Puedes personalizar y ampliar estos archivos según tus necesidades y preferencias. Además, es posible que se requiera agregar lógica adicional utilizando un lenguaje de programación en el lado del servidor para hacer que los formularios sean funcionales y almacenar los datos ingresados por los usuarios.
+
+Recuerda que este es solo un esqueleto básico de la página web y que se pueden agregar más características y secciones según tus requerimientos específicos.

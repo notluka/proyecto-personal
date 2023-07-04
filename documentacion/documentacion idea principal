@@ -1,0 +1,30 @@
+Descripción del proyecto:
+La aplicación de fitness que estoy desarrollando es una plataforma digital que tiene como objetivo ayudar a las personas a mejorar su salud y condición física a través de la actividad física y el seguimiento de su progreso. Nuestra aplicación se diferenciará por ofrecer planes de entrenamiento personalizados, un seguimiento detallado de las actividades físicas y una comunidad en línea que fomente el apoyo mutuo y la motivación.
+
+Requisitos del usuario:
+Nuestro público objetivo principal son adultos jóvenes entre 25 y 40 años, interesados en mejorar su condición física y llevar un estilo de vida saludable. Los usuarios podrán establecer sus objetivos de entrenamiento, tales como pérdida de peso, aumento de la resistencia o ganancia de masa muscular. También esperan recibir recomendaciones y consejos personalizados basados en sus preferencias y nivel de condición física.
+
+Funcionalidades principales:
+
+Registro y seguimiento de actividades físicas: Los usuarios podrán registrar diferentes tipos de actividades físicas, como correr, caminar, ciclismo, levantamiento de pesas, etc. La aplicación almacenará datos como la duración, la distancia recorrida, las calorías quemadas, etc.
+Planes de entrenamiento personalizados: La aplicación ofrecerá planes de entrenamiento adaptados a los objetivos y preferencias de los usuarios. Estos planes incluirán ejercicios específicos, rutinas y sugerencias de progresión.
+Seguimiento de progresos: Los usuarios podrán visualizar su progreso a través de gráficos y estadísticas, que mostrarán su evolución en términos de peso, medidas corporales, rendimiento en actividades físicas, etc.
+Notificaciones y recordatorios: La aplicación enviará recordatorios a los usuarios para mantenerlos motivados y comprometidos con su plan de entrenamiento. Además, recibirán notificaciones sobre logros alcanzados, desafíos nuevos o actualizaciones relevantes.
+Comunidad y redes sociales: Los usuarios podrán conectarse con otros usuarios, compartir sus logros, intercambiar consejos y participar en desafíos grupales. También podrán seguir a entrenadores y expertos en fitness para obtener información adicional y motivación.
+Arquitectura del sistema:
+La aplicación de fitness seguirá una arquitectura cliente-servidor. El frontend se desarrollará utilizando tecnologías web como HTML, CSS y JavaScript, y el backend estará construido con Node.js y una base de datos MySQL para almacenar la información de los usuarios y registros de entrenamiento.
+
+Diseño de interfaz de usuario:
+Utilizando herramientas de diseño como Figma, crearé wireframes y prototipos de las principales pantallas de la aplicación, como la pantalla de inicio, el perfil del usuario, el registro de actividades, el seguimiento de progresos y la comunidad. Estos diseños tendrán un enfoque intuitivo y atractivo para facilitar la navegación y mejorar la experiencia del usuario.
+
+Diagrama de flujo:
+Crearé un diagrama de flujo que muestre la navegación entre las diferentes secciones de la aplicación. Esto incluirá la ruta desde la pantalla de inicio hasta las funciones clave, como el registro de actividades y el seguimiento de progresos.
+
+Casos de uso:
+
+Registro de actividad: El usuario selecciona el tipo de actividad, ingresa los detalles relevantes (duración, distancia, intensidad, etc.) y guarda la actividad registrada en su perfil.
+Plan de entrenamiento personalizado: El usuario establece sus objetivos y preferencias de entrenamiento, y el sistema genera un plan personalizado que incluye ejercicios, repeticiones, descansos y recomendaciones.
+Seguimiento de progresos: El usuario visualiza gráficos y estadísticas que muestran su progreso en diferentes áreas, como pérdida de peso, medidas corporales o rendimiento en actividades físicas.
+Notificaciones y recordatorios: El sistema envía notificaciones para recordar a los usuarios sus próximas actividades o metas a alcanzar, y también les informa sobre nuevos desafíos o actualizaciones en la comunidad.
+Planificación y cronograma:
+Estableceré un plan y un cronograma detallado para el desarrollo de la aplicación, dividiendo el proyecto en etapas como el diseño de interfaz, la implementación de funcionalidades y las pruebas. Estableceré fechas límite para cada etapa y asignaré recursos según sea necesario para mantener un progreso constante.
